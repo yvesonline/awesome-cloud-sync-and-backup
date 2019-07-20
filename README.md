@@ -7,6 +7,7 @@
 
 - [Encrypting cloud data](#encrypting-cloud-data)
 - [Cloud Backup solutions](#cloud-backup-solutions)
+- [Peer-to-peer file synchronization](#peer-to-peer-file-synchronization)
 
 
 ## Encrypting cloud data
@@ -22,6 +23,13 @@ If you want to use Dropbox, Google Drive and Co. to sync your data use these too
 When you want to securely store a backup on Dropbox, Google Drive and Co. use these tools to keep your data hidden from anyone else but you.
 
 - [duplicati](https://github.com/duplicati/duplicati)
+
+
+## Peer-to-peer file synchronization
+
+When you have multiple locations you want to keep in sync.
+
+- [Syncthing](https://syncthing.net/)
 
 
 ## Contribute
