@@ -23,6 +23,7 @@ If you want to use Dropbox, Google Drive and Co. to sync your data use these too
 
 When you want to securely store a backup on Dropbox, Google Drive and Co. use these tools to keep your data hidden from anyone else but you.
 
+- [restic](https://restic.net/)
 - [duplicati](https://github.com/duplicati/duplicati)
 - [Duplicacy](https://github.com/gilbertchen/duplicacy)
 - [BorgBackup](https://www.borgbackup.org/)
